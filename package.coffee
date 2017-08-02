@@ -1,6 +1,6 @@
 pack = Packages.register
   name: 'snoozer'
-  description: 'Various screenshot taking methods'
+  description: 'command for inserting very small pauses'
 
 pack.commands
   'wait':
